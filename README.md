@@ -1,0 +1,1 @@
+This is a model of scissors in CAD. It has a .GLB/.GLTF file attached to show the material, normal .STEP and .STL files for usual use.
